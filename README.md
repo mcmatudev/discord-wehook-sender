@@ -8,4 +8,7 @@ node.js初心者が作った💩です。
 ![スクリーンショット 2023-12-28 210515](https://github.com/mcmatudev/discord-wehook-sender/assets/152702582/19856a37-740b-456b-9f11-58cd4df0654f)
 
 ![スクリーンショット 2023-12-28 210457](https://github.com/mcmatudev/discord-wehook-sender/assets/152702582/8a8fe294-1407-4f4b-9b28-b5ec48b2a69d)
+
 ログはいっちょ前に色付けてかっこよくしてみました。
+
+node index.js で動きます。
