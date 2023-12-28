@@ -26,6 +26,7 @@ function send() {
     hook.send(data.content);
 }   
 
+// なんか知らんけど日本語打っても文字化けするから英語オンリーやで、ｗごめん！
 
 setup();
 send();
