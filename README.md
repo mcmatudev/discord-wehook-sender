@@ -11,4 +11,4 @@ node.js初心者が作った💩です。
 
 ログはいっちょ前に色付けてかっこよくしてみました。
 
-node index.js で動きます。
+```node index.js```または```npm run dev``` で動きます。
